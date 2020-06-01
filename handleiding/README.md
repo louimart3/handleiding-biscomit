@@ -171,4 +171,6 @@ De opmaak van de site kan je ook helemaal aanpasen naar uw wil. voor de opmaak a
     ![pat base](./assets/images/fouten/patBase.PNG)
 
 2. Waneer u het bestand geopend hebt gaat u verschillende bloken zien met tekst.
-3. 
+3. Deze v-bloken tekst bestaan uit een *selector* en daar binnen heb je key value pars die elk iets te maken hebben meet de opmaak van het geselecteerde elemend.
+
+    ![blok scss code](./assets/images/fouten/scss.PNG)
